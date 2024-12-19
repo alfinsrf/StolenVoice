@@ -1,0 +1,4251 @@
+fileFormatVersion: 2
+guid: 16d967ac8df93684caa0e5db3e8b7876
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8268f783d2cb64a982dc9499b0d9c0
+      internalID: -584501427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf213035a583bcf47ae3842207c29784
+      internalID: -1020001771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8e07c5d06b624393ca694176e808a
+      internalID: -522535734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bb4e3e08ef4854198cb1b35472988d
+      internalID: 934597463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948f3eb50d75e7459dfd5862bbea46a
+      internalID: 459082941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_5
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d516c42be642a6458890d2ab30e2ca7
+      internalID: -2022666962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_6
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d65c0e15472674083883f38b4be78d
+      internalID: -2007982602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953750bc5047a1f4f9bd599767cf91e1
+      internalID: -455686939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157363591aef73441bf129b73eeb683a
+      internalID: 100657146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f779cbd4a3ed44b4a3f028cc3d770
+      internalID: 1735600773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_10
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f38a9752f11d8458233fd90a03dce8
+      internalID: -710645208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_11
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1264
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c3f9abcdbfd4f4ca947f4a9bbfa80e
+      internalID: -1207194044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1185
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25bb71dcb6bf3b41819a36a04fe520a
+      internalID: -1630763493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1185
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a17ea78789bbc14cb2192717718f53a
+      internalID: -345455070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_14
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1185
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d53954ef17b494aa05429a35e5c6d5
+      internalID: 808866681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1185
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c4427608d3e3549bf22273b4fd6e4f
+      internalID: 621665278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_16
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1185
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6a5f0f5b107694094d7c39c43b8bf8
+      internalID: -715785452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1106
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0c9b27a4fa909429d6c11a28b6a306
+      internalID: -880731203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1106
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1f9e452351a1f468547afbf0d5a5db
+      internalID: 1287154864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1106
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1704440c4ac239c47af8b03558dd928f
+      internalID: -2047532801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_20
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1106
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968a3b620486f5241bdcd2ef73004375
+      internalID: -304802793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1106
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a88ec252b795c84c87abea974a12780
+      internalID: 560307256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1106
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80623a44af28a7c4e8e264e3fd90048b
+      internalID: 683486283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1027
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44516d8a5ba7d00439a75725d074cc3b
+      internalID: -1804062133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1027
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530a4a7a79e98c64394c05424a353664
+      internalID: 1363197693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1027
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc30e860844fc7645be305623dd7f939
+      internalID: -1685189714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_26
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1027
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273a3bb47edf8e341bf950dd1585d17c
+      internalID: -1059591607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1027
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaedb9a8eadccc4a8758a90568e38f9
+      internalID: -542585692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_28
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1027
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d16cddc1fae6614b88ff5a4c10b5d62
+      internalID: 244705646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45b7260757ebf540b99684bcdf7295a
+      internalID: -960069836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 948
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c3b5456a59104d8bca6d4ce9ecdff
+      internalID: 1350519199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 948
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1446ee03d7fa4da0429e372c54e95
+      internalID: -72524324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 948
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34819ad66dc6b26408ac4291e6ef0d42
+      internalID: -1990035529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_33
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 948
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937e73cf2f329341b5390095f6d1d21
+      internalID: 1198960939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_34
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 948
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2384ae8dc5a903e4ca85c22489081923
+      internalID: 1015279186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_35
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 948
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b933d53e94440e24d83910f1467ba653
+      internalID: -107937133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_36
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 948
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49becfc377c862c4ba7bbfb41e32994c
+      internalID: 578058413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 869
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8b5c0ebd08efb499fcaaa6f8fc0b07
+      internalID: 2046968274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 869
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b82ce0e93fc3d348b46d44f415f47a7
+      internalID: 527182852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 869
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f3e6f3d4b3c14f92bdfb614698886
+      internalID: -1890144102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_40
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 869
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49211dc8dd3e1e41b320d85a43895a2
+      internalID: -1389094133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 869
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dac773ec016594aba4d5d21d7b3aa1
+      internalID: 1150487495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_42
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 869
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c414ad1917ef6438dbea684e0e1e6f
+      internalID: -2090315758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a398a96e76ef41041a41ebe5d4b8a138
+      internalID: -523404099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 790
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c622950240d56894ba3808ba3fbe21ae
+      internalID: -632029852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 790
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0152f912689c78042be9fbe59fffc223
+      internalID: -1486085371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 790
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48094f3f51cfbaa45b13a7ef27b9a389
+      internalID: 131659338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41e9f40d2ae8b644885e6e275dcb35d
+      internalID: -1323047887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 711
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b247e09e78a21c14a9a2f647324fb57c
+      internalID: 1553000009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 711
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256dba9bb8dc3344eab80838de10304d
+      internalID: -1382555830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_50
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 711
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b46d786bfeba5e4fb0b34a1d21d17f3
+      internalID: -1199121592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6489dfee9535847b479f3b5a98b263
+      internalID: 511585265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96056eea2760ef48bac4d94eb37e337
+      internalID: 1187185930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c958235d2f7f35247b87acdea7858eee
+      internalID: 2115694215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e098b9583bf94896567be27a976f1
+      internalID: -1904733503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_55
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b9d2542ff53ef4e845cec030f27984
+      internalID: -990230883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_56
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b855b28ec0d4d54e99fa3628a75bcd2
+      internalID: -1183751196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_57
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc7429e0a4b1a49bcd15f6a1f52367
+      internalID: 2116258271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_58
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3b9b76655fa7742b925cd96d05d36a
+      internalID: -1701031112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_59
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394ae73c671707e48b0ad4fb58c6ee70
+      internalID: 2063333940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_60
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d2d3483610fb4a96fd47477ad1a5b
+      internalID: -239903467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_61
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8cea6e92532994681d4e61976ff834
+      internalID: 1058426428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_62
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6687392de179347a74d617fb7b5f03
+      internalID: -282688777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_63
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c53884f2ef2ed46bc9725a41edc759
+      internalID: -1013691756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_64
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 632
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ebb91e6cd88f48a976ce9c16a3b19
+      internalID: 2129160412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c44443c36c24c14e80fd91c802d2dde
+      internalID: 698017605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_66
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea62cd0f5c98c5448baaa73d0b83e7e
+      internalID: 1465435753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abe63ad34d52424783c5dc9580618ff
+      internalID: 287852077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_68
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b469fb70ed0ef34f97fbd483984ccbc
+      internalID: 215450954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_69
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2e7ed3721c76d44bb8151fbef5ca20
+      internalID: -2124175268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_70
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be70d75fbc02f94ab2e813055aab873
+      internalID: 478625112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_71
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af33902e310d3f46bc2e91ae443df17
+      internalID: 595611787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_72
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5883966675607a346a0d59a0239f64dc
+      internalID: 160136810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_73
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2fbed463252ce48bd40405e5ae9c87
+      internalID: 1496954422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_74
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a6c46dbd3a1c64d8f26d1aa54bff2e
+      internalID: -763146132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_75
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76705c33cad5d0241a4615412bb39140
+      internalID: -391972304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_76
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b916f441c53fe2e4aaa86dbbe34ac05a
+      internalID: 876314647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_77
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a521958c766054ea9663e6b2bd78d9
+      internalID: 972494803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_78
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 553
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c7d57eec682b41ab2ae0a6421c021
+      internalID: 1589072331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7b1efd7f68f9948b6240d611e5694e
+      internalID: -1830422743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_80
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a770dba8ceb97046a0b0e8f7759ca64
+      internalID: -2003951521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_81
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef97a4cc9e6c041915f919a9a38556
+      internalID: 1507313907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_82
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca1ff54d9d74284ba1c3f4b7353a2e6
+      internalID: -465753358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_83
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d9db8c36ec6cc4993ee94374ac2fd6
+      internalID: -1547078589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_84
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e43f53ec3a6954f8dbecd4ee92cb55
+      internalID: -1299224860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_85
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087467cd8b49b2040a9b7a254f900776
+      internalID: 322906604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_86
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35e576cfa7cfd4cb0afc2b58ed5326
+      internalID: 2031217619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_87
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c18dcf07d8bc74c98901ff3bce6b49
+      internalID: -460775202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_88
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced34b33914aa8b438840edc6a0bf56d
+      internalID: 1680538780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_89
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebec917453ee9894e841c7b06e181ed8
+      internalID: -1367531197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_90
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063743ca3d827f84ea7ca16dafc99028
+      internalID: 1995753247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_91
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbd25105b7829647b40b6120344d51e
+      internalID: 510671514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_92
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0a2c800a3742e418e98468c61b30a6
+      internalID: 56594330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_93
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d11b2cc325ec1744824e0ed624a3793
+      internalID: 469924433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_94
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2714cd32ef0cc13409bc25184992f0a3
+      internalID: -269966544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_95
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fff5ac0286b1f343b9c0889e74e29ae
+      internalID: -2074781549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_96
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998e4c878d8b3544bb963a5ab59abfa
+      internalID: 1809901396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_97
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 474
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c24df9881b9bc4281a97ecaec6c95f
+      internalID: -1163293362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1d2c109a28c69479ed8db26c5548fb
+      internalID: 43551112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339cd86ae70058a47aa74a859cb61d77
+      internalID: 241174275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_100
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b739d59b2479d1428cb54f68252d080
+      internalID: 318109752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_101
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee464c5e034b7341bb8753fcf6b79d0
+      internalID: 487678509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_102
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139df1cd36359c44cac5ee201a69b516
+      internalID: -1463824125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_103
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba764f6afe568c54e83321f47f9aaa70
+      internalID: -1350750207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_104
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77516d0902e39c48ad9320406920d06
+      internalID: 248389304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_105
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206a78f11771fc64d9252623425b697d
+      internalID: 323291374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_106
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee16890f042968b49ad3442c64f1d84a
+      internalID: 1027486797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_107
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf78e89562ad144e99ee8cc2e1e3d36
+      internalID: 940788302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_108
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2fab8c61f1ddb48877f1239aeb0493
+      internalID: -53675297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_109
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119eef4be4c8394187ede696a5f7ce6
+      internalID: 1084564835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_110
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9230e77858e927440b0fa1214467e47d
+      internalID: -1631837532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_111
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb9d604ce3c25e46bc5e06a021b5b34
+      internalID: -852576341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_112
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f2f6a8993b5a440a9db015de60bf30
+      internalID: 1596009501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_113
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c126126df25d7cd48a80b1acc0de5e66
+      internalID: 2095964303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_114
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725e333596397b418af3ba57bf3e5e4
+      internalID: 1574268961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_115
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f77b01eeb45b8449bd6fd471c58836
+      internalID: -1573729479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_116
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 395
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813d7c5b7c6251a45bdef9454737e09c
+      internalID: 1641361530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1febcc5c68a2ed04fb8f583d6764e238
+      internalID: 1261834166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_118
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 316
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec66ddc352bbb0478da0eb3aac3227b
+      internalID: 1081146904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_119
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb5c930a82a6ba4c8e5458796c6ccbd
+      internalID: -659206648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_120
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd0d62c361d4134d89c6b1d0ca400b9
+      internalID: 1554493301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_121
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f05445f757b9f74d807476d239bdf0a
+      internalID: -880732458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_122
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836640e617b6c364b8107a0c41afbc53
+      internalID: -1987016942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_123
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8bb2a56abe13e41ae27423fe66f2db
+      internalID: -2043626306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_124
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733fb43f7813e814ea09b5f4f386578a
+      internalID: -783732619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_125
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e67889119b5d342b5957e6471b9da9
+      internalID: -2134201507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_126
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d2ddc4f0481704cb3e013163bf557f
+      internalID: 948745609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_127
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41632ee691431248bfac27fad4666f4
+      internalID: 1411958037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_128
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20390828fda71e4dadb39927474b848
+      internalID: 311134324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_129
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 316
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a223e2c8405f44089967173ffd43b3
+      internalID: -33367374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512ec63ee5b48f43afe8db8edc60659
+      internalID: -1399729697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_131
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 237
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38225a48cda98c48ada77d1cb4f6ad6
+      internalID: 511347994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_132
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 237
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af83b59045c6f2408075cdf41aded75
+      internalID: 429293212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_133
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 237
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cfc59767752634fa48b7bf1b7dda3e
+      internalID: -115264443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_134
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 237
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b7696e231fea14ea7662b652ee9dd1
+      internalID: 512089475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_135
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 237
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5982a6f1d3bd747a41105c80a0663c
+      internalID: -174879333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_136
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 237
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1c0d60efa77ec41aa5b3673f0edc97
+      internalID: 1471160847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_137
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 237
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39962c185e291784a98347a27ea90d83
+      internalID: -1127353257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_138
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 237
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2623e3450a3df5e46986b8b099643e8d
+      internalID: 244144557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4caaaccdb110ef42a01674814f56039
+      internalID: 292865269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_140
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac8d387b237144994d4964ca7ffa6f
+      internalID: -878454045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_141
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a3230d86f9c9e40861b76a8b829efc
+      internalID: 2130075275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_142
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fc6ddb5e27e4b448462a5c795060bd
+      internalID: 1831058957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_143
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e41f95f3341c85418e8ec4c38edced3
+      internalID: -1425216554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_144
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063f0acefd8cbc0419ff32bc707ea53f
+      internalID: 1255897277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_145
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c65860ee90d45640acf0764d656b6a6
+      internalID: 1219608390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_146
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261f0fe79c0fc6245b9885fa82694072
+      internalID: -1837200622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_147
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637eed560c459bd4ea4a58a64e069e0d
+      internalID: -1137241140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_148
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbc6502d33186942b1500682c3403db
+      internalID: 39356510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_149
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 158
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b99a1d9a306ce74e9c38759260f4b77
+      internalID: -412035319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_150
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965fabac964bc934597387ca2dc3d863
+      internalID: 678692631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_151
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ffe0038e8180148ba5b1b9b18efd8c
+      internalID: 380244924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_152
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6686024b8f51c3044b057a194559ba2f
+      internalID: -641795274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_153
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271a3e5d37f45cb428d250a6e86a4343
+      internalID: -435509707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_154
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e926ad3d993794e4a871201da6f92219
+      internalID: 966363311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_155
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0fc9ce2cff1644cba87ed32685af32
+      internalID: 1128555288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_156
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5190473c10c20f34c9300e541967034c
+      internalID: -1990843955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_157
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c76782aed7a994a81ea5a41abb0c28
+      internalID: 1347937875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_158
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5c47c22b7b63d48ad734ea0a7fa56f
+      internalID: -1906697736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_159
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4997994d656118349ac3b2ab091c1123
+      internalID: -1667371977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_160
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d535ef3a013c9a7488daea5984ea01bf
+      internalID: -962765647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_161
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8201757810307d54b8a734083e10bb3c
+      internalID: 627416709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_162
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12b0ed02b27334ba75c7cbf19e3a29
+      internalID: -2100364194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_163
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16785a359ca4f640a1d859554855386
+      internalID: 101941183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_164
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 79
+        width: 140
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2343eed0071def41a2b9408ca7dc81f
+      internalID: -347058058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_165
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 79
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d94ec13d48a3c4a9da63bd15557d21
+      internalID: 1784489301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_166
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 79
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbc98bf01cd1fa47bcc8cf8fb9df9ce
+      internalID: -757166035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_167
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 79
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68336186eaab5a45993df67d747d0c6
+      internalID: 755478905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ccba1324fd1734996e72377d75b806
+      internalID: -573743898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_169
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13298ab0c6c64f439ef2d53f59882a8
+      internalID: 1245028319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_170
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47631d3379472db488ad0d0e82efc828
+      internalID: -275345157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_171
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fbdcd1fd0b81549bb60d2c589e40aa
+      internalID: 176506334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_172
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246e594e81076242baac67346ba25be
+      internalID: 429203260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_173
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b9c438ce851e14cb2ca24752fa96ae
+      internalID: 361400760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_174
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35c0817ff80aa84ab01cca331dd6b2d
+      internalID: -1158885472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_175
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7a716cc1bbbfe4f948923847aea346
+      internalID: -2117643201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_176
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10b9c97fafc3e4aa783bcb61da3b10
+      internalID: 1251448325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_177
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b63ef7e4e0076849b2bce9078770648
+      internalID: 1945304651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_178
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96227bf3bdacf2746aad604694aab6d0
+      internalID: 48252825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_179
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21686837ed061b4faf587423181c9b5
+      internalID: 604464460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_180
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae85b36c0cd67542964c940027d9c75
+      internalID: 1392742862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_181
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c6746a63b36b74fa13b49d2c5b9bb8
+      internalID: -1792638894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_182
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba132770670ae134c91cff35a92fa180
+      internalID: 1616158943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_183
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1e5765adf37f45b9017a458965830
+      internalID: -1560777069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_184
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c26b83ceadd454fb10596f9164d001
+      internalID: -97765958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TLH Final Boss 168x79_185
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 168
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3233, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e6a0e7071d8c94db65d2f42499cc05
+      internalID: -1547512301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TLH Final Boss 168x79_0: -584501427
+      TLH Final Boss 168x79_1: -1020001771
+      TLH Final Boss 168x79_10: -710645208
+      TLH Final Boss 168x79_100: 318109752
+      TLH Final Boss 168x79_101: 487678509
+      TLH Final Boss 168x79_102: -1463824125
+      TLH Final Boss 168x79_103: -1350750207
+      TLH Final Boss 168x79_104: 248389304
+      TLH Final Boss 168x79_105: 323291374
+      TLH Final Boss 168x79_106: 1027486797
+      TLH Final Boss 168x79_107: 940788302
+      TLH Final Boss 168x79_108: -53675297
+      TLH Final Boss 168x79_109: 1084564835
+      TLH Final Boss 168x79_11: -1207194044
+      TLH Final Boss 168x79_110: -1631837532
+      TLH Final Boss 168x79_111: -852576341
+      TLH Final Boss 168x79_112: 1596009501
+      TLH Final Boss 168x79_113: 2095964303
+      TLH Final Boss 168x79_114: 1574268961
+      TLH Final Boss 168x79_115: -1573729479
+      TLH Final Boss 168x79_116: 1641361530
+      TLH Final Boss 168x79_117: 1261834166
+      TLH Final Boss 168x79_118: 1081146904
+      TLH Final Boss 168x79_119: -659206648
+      TLH Final Boss 168x79_12: -1630763493
+      TLH Final Boss 168x79_120: 1554493301
+      TLH Final Boss 168x79_121: -880732458
+      TLH Final Boss 168x79_122: -1987016942
+      TLH Final Boss 168x79_123: -2043626306
+      TLH Final Boss 168x79_124: -783732619
+      TLH Final Boss 168x79_125: -2134201507
+      TLH Final Boss 168x79_126: 948745609
+      TLH Final Boss 168x79_127: 1411958037
+      TLH Final Boss 168x79_128: 311134324
+      TLH Final Boss 168x79_129: -33367374
+      TLH Final Boss 168x79_13: -345455070
+      TLH Final Boss 168x79_130: -1399729697
+      TLH Final Boss 168x79_131: 511347994
+      TLH Final Boss 168x79_132: 429293212
+      TLH Final Boss 168x79_133: -115264443
+      TLH Final Boss 168x79_134: 512089475
+      TLH Final Boss 168x79_135: -174879333
+      TLH Final Boss 168x79_136: 1471160847
+      TLH Final Boss 168x79_137: -1127353257
+      TLH Final Boss 168x79_138: 244144557
+      TLH Final Boss 168x79_139: 292865269
+      TLH Final Boss 168x79_14: 808866681
+      TLH Final Boss 168x79_140: -878454045
+      TLH Final Boss 168x79_141: 2130075275
+      TLH Final Boss 168x79_142: 1831058957
+      TLH Final Boss 168x79_143: -1425216554
+      TLH Final Boss 168x79_144: 1255897277
+      TLH Final Boss 168x79_145: 1219608390
+      TLH Final Boss 168x79_146: -1837200622
+      TLH Final Boss 168x79_147: -1137241140
+      TLH Final Boss 168x79_148: 39356510
+      TLH Final Boss 168x79_149: -412035319
+      TLH Final Boss 168x79_15: 621665278
+      TLH Final Boss 168x79_150: 678692631
+      TLH Final Boss 168x79_151: 380244924
+      TLH Final Boss 168x79_152: -641795274
+      TLH Final Boss 168x79_153: -435509707
+      TLH Final Boss 168x79_154: 966363311
+      TLH Final Boss 168x79_155: 1128555288
+      TLH Final Boss 168x79_156: -1990843955
+      TLH Final Boss 168x79_157: 1347937875
+      TLH Final Boss 168x79_158: -1906697736
+      TLH Final Boss 168x79_159: -1667371977
+      TLH Final Boss 168x79_16: -715785452
+      TLH Final Boss 168x79_160: -962765647
+      TLH Final Boss 168x79_161: 627416709
+      TLH Final Boss 168x79_162: -2100364194
+      TLH Final Boss 168x79_163: 101941183
+      TLH Final Boss 168x79_164: -347058058
+      TLH Final Boss 168x79_165: 1784489301
+      TLH Final Boss 168x79_166: -757166035
+      TLH Final Boss 168x79_167: 755478905
+      TLH Final Boss 168x79_168: -573743898
+      TLH Final Boss 168x79_169: 1245028319
+      TLH Final Boss 168x79_17: -880731203
+      TLH Final Boss 168x79_170: -275345157
+      TLH Final Boss 168x79_171: 176506334
+      TLH Final Boss 168x79_172: 429203260
+      TLH Final Boss 168x79_173: 361400760
+      TLH Final Boss 168x79_174: -1158885472
+      TLH Final Boss 168x79_175: -2117643201
+      TLH Final Boss 168x79_176: 1251448325
+      TLH Final Boss 168x79_177: 1945304651
+      TLH Final Boss 168x79_178: 48252825
+      TLH Final Boss 168x79_179: 604464460
+      TLH Final Boss 168x79_18: 1287154864
+      TLH Final Boss 168x79_180: 1392742862
+      TLH Final Boss 168x79_181: -1792638894
+      TLH Final Boss 168x79_182: 1616158943
+      TLH Final Boss 168x79_183: -1560777069
+      TLH Final Boss 168x79_184: -97765958
+      TLH Final Boss 168x79_185: -1547512301
+      TLH Final Boss 168x79_19: -2047532801
+      TLH Final Boss 168x79_2: -522535734
+      TLH Final Boss 168x79_20: -304802793
+      TLH Final Boss 168x79_21: 560307256
+      TLH Final Boss 168x79_22: 683486283
+      TLH Final Boss 168x79_23: -1804062133
+      TLH Final Boss 168x79_24: 1363197693
+      TLH Final Boss 168x79_25: -1685189714
+      TLH Final Boss 168x79_26: -1059591607
+      TLH Final Boss 168x79_27: -542585692
+      TLH Final Boss 168x79_28: 244705646
+      TLH Final Boss 168x79_29: -960069836
+      TLH Final Boss 168x79_3: 934597463
+      TLH Final Boss 168x79_30: 1350519199
+      TLH Final Boss 168x79_31: -72524324
+      TLH Final Boss 168x79_32: -1990035529
+      TLH Final Boss 168x79_33: 1198960939
+      TLH Final Boss 168x79_34: 1015279186
+      TLH Final Boss 168x79_35: -107937133
+      TLH Final Boss 168x79_36: 578058413
+      TLH Final Boss 168x79_37: 2046968274
+      TLH Final Boss 168x79_38: 527182852
+      TLH Final Boss 168x79_39: -1890144102
+      TLH Final Boss 168x79_4: 459082941
+      TLH Final Boss 168x79_40: -1389094133
+      TLH Final Boss 168x79_41: 1150487495
+      TLH Final Boss 168x79_42: -2090315758
+      TLH Final Boss 168x79_43: -523404099
+      TLH Final Boss 168x79_44: -632029852
+      TLH Final Boss 168x79_45: -1486085371
+      TLH Final Boss 168x79_46: 131659338
+      TLH Final Boss 168x79_47: -1323047887
+      TLH Final Boss 168x79_48: 1553000009
+      TLH Final Boss 168x79_49: -1382555830
+      TLH Final Boss 168x79_5: -2022666962
+      TLH Final Boss 168x79_50: -1199121592
+      TLH Final Boss 168x79_51: 511585265
+      TLH Final Boss 168x79_52: 1187185930
+      TLH Final Boss 168x79_53: 2115694215
+      TLH Final Boss 168x79_54: -1904733503
+      TLH Final Boss 168x79_55: -990230883
+      TLH Final Boss 168x79_56: -1183751196
+      TLH Final Boss 168x79_57: 2116258271
+      TLH Final Boss 168x79_58: -1701031112
+      TLH Final Boss 168x79_59: 2063333940
+      TLH Final Boss 168x79_6: -2007982602
+      TLH Final Boss 168x79_60: -239903467
+      TLH Final Boss 168x79_61: 1058426428
+      TLH Final Boss 168x79_62: -282688777
+      TLH Final Boss 168x79_63: -1013691756
+      TLH Final Boss 168x79_64: 2129160412
+      TLH Final Boss 168x79_65: 698017605
+      TLH Final Boss 168x79_66: 1465435753
+      TLH Final Boss 168x79_67: 287852077
+      TLH Final Boss 168x79_68: 215450954
+      TLH Final Boss 168x79_69: -2124175268
+      TLH Final Boss 168x79_7: -455686939
+      TLH Final Boss 168x79_70: 478625112
+      TLH Final Boss 168x79_71: 595611787
+      TLH Final Boss 168x79_72: 160136810
+      TLH Final Boss 168x79_73: 1496954422
+      TLH Final Boss 168x79_74: -763146132
+      TLH Final Boss 168x79_75: -391972304
+      TLH Final Boss 168x79_76: 876314647
+      TLH Final Boss 168x79_77: 972494803
+      TLH Final Boss 168x79_78: 1589072331
+      TLH Final Boss 168x79_79: -1830422743
+      TLH Final Boss 168x79_8: 100657146
+      TLH Final Boss 168x79_80: -2003951521
+      TLH Final Boss 168x79_81: 1507313907
+      TLH Final Boss 168x79_82: -465753358
+      TLH Final Boss 168x79_83: -1547078589
+      TLH Final Boss 168x79_84: -1299224860
+      TLH Final Boss 168x79_85: 322906604
+      TLH Final Boss 168x79_86: 2031217619
+      TLH Final Boss 168x79_87: -460775202
+      TLH Final Boss 168x79_88: 1680538780
+      TLH Final Boss 168x79_89: -1367531197
+      TLH Final Boss 168x79_9: 1735600773
+      TLH Final Boss 168x79_90: 1995753247
+      TLH Final Boss 168x79_91: 510671514
+      TLH Final Boss 168x79_92: 56594330
+      TLH Final Boss 168x79_93: 469924433
+      TLH Final Boss 168x79_94: -269966544
+      TLH Final Boss 168x79_95: -2074781549
+      TLH Final Boss 168x79_96: 1809901396
+      TLH Final Boss 168x79_97: -1163293362
+      TLH Final Boss 168x79_98: 43551112
+      TLH Final Boss 168x79_99: 241174275
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

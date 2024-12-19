@@ -1,0 +1,1479 @@
+fileFormatVersion: 2
+guid: 49777dcb8d3b661448479cb4f34ec99d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73e68767586c0349b5b1f02518ee860
+      internalID: -1983911109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a8461f85bee3f4e9d25bd871b241de
+      internalID: 2108716796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfc4926152d1f74e9183e2045fdeac5
+      internalID: 1922968440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d179c8e5ec123b640b58fd0d77a26651
+      internalID: -578926264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f97c0781d5231a418c42afaad90c232
+      internalID: -900496423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c779d9d2375e614dacb2034a10a2b33
+      internalID: 133730792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e4679b1a9eb2e4aa715cae7464ea52
+      internalID: 1638036288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d14810ec085c114eb359c5cb2c28436
+      internalID: 1936266086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48134658a81edb5459ca74edb82f411f
+      internalID: -499778788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f178776ce6f1548a30435455b526b1
+      internalID: 1706289378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510e6e853328d194186f482574d248a7
+      internalID: 1761150392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afae52662b4b4fa44b0a27e3018d5864
+      internalID: 1530980404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9c4bbe3a0396d4e8900dec28b6660a
+      internalID: 1886093105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f05ac784ffa645bb52e4477e3e0a7
+      internalID: 1363082417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9bbf3dd2b83294eb9dac76fcc13a8d
+      internalID: -399603243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_15
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 198
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9a8b7156f504a4c99311b90933175c
+      internalID: 1979002019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4977336d67c7f40a76700191acdbc4
+      internalID: -1099717427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 165
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc65989d4d98ab4aafc66110cf42182
+      internalID: -1515890799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 165
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d027c4bcfaedc7140beac99b10aed3df
+      internalID: -1787897241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_19
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 165
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14cdfe29f13c8041890f4f64a434676
+      internalID: -1327256697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd2c51c517f57b45b233083e73ba4ea
+      internalID: 1076358273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 132
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038ca7178496fa34eb024a824ef5c02b
+      internalID: 1484943562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 132
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86d6d28c9eda146a577e317f7d6177
+      internalID: 424104398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 132
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b598de6b5472364991e60850d9d5326
+      internalID: 1123693302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 132
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747e17af82a1c654cb65eeeb9d3289ec
+      internalID: -350758154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_25
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 132
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed261628d0b5b64db1652d8aa9edc8d
+      internalID: 308737084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 132
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36169835fba95c49921b0aa25b6192b
+      internalID: -1188558733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 132
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaa7cde4b0363847a84488e1b1f497b
+      internalID: -1921525779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 132
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8542759a5c6bad24b9459eaff909782e
+      internalID: 857608197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5626a6470876e9b44a53ca13a226e413
+      internalID: -170051745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 99
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fb2ab16c9ea114ebcdb704babff2b7
+      internalID: 1610397560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 99
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fbba2032636f4aa439fb1d8f1104a
+      internalID: -498151823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 99
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c3dbe378e8c94b94c9b997bde0ee1
+      internalID: 1930559911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_33
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 99
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5d04661d8fa5840ab67af5c0b55af6
+      internalID: 912984350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_34
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 99
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d7b2f48cd16c4fa159018d20ef1f2
+      internalID: 932317404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 99
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba39d0aca5de4f479fcf27fc7d6125e
+      internalID: -731219990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bb009b7120a13449b757b389093046
+      internalID: 761498808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 66
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7943c6b9773a71b499aabe6d1b07705f
+      internalID: -719791232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 66
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d01eaa7fbd1b48ac8a1771a910438
+      internalID: -332539388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 66
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140518ebe344b924493b2ea1e1df041d
+      internalID: 1991801849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f24fd41341c734bb64d7093236d19e
+      internalID: -788885526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 33
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3735d5257c86d044fbc79e8de8ff2771
+      internalID: -1415791315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 33
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdfe288c6fb3df4e821be8a817b7582
+      internalID: 166175244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 33
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592e306edecb2e1428b209dceacdb7c5
+      internalID: -1710186408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 33
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52683f37a83be34a9c5eaab01763d3e
+      internalID: -1603936260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 33
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa6b1083d18e374892df5202d4d80a9
+      internalID: -1645394141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_46
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 33
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eddaf01e839e084199db11c2de8e4c8
+      internalID: -348444090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_47
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 33
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704f6c03676daab45af3e117f64a9fc2
+      internalID: 1684351123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389228613ea19c54bb30aa58fd42e63c
+      internalID: 1933922396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5baf4f8df38bc49beb56b152bf5c0a
+      internalID: -1198100200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb9cc0d7e6163149a06509e0ad29bac
+      internalID: 2054983566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda025650e4733d4683e4f3d8338824a
+      internalID: 1064667376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42ca6a2b891447459fba258a8cccae8
+      internalID: 1718991847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_53
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ea02f17fc52548ac75f45172e810b
+      internalID: 977659942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_54
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4939c58c203f95e46bb0468a9343ade8
+      internalID: -584340703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_55
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aed7e2dad239f4a98600b2e73b72e3
+      internalID: -1606254818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_56
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431218a291d2ff546914a1ca46c206db
+      internalID: 1043787175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_57
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a880610a1206974cb871fb27c1f8883
+      internalID: 1602632217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_58
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b1d50ad40379349a12ff58487f1773
+      internalID: 1738867659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected 62x33 sprite sheets_59
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 33
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.475, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdfb869a3e854e488cadabeea4b65cd
+      internalID: -241018014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Infected 62x33 sprite sheets_0: -1983911109
+      Infected 62x33 sprite sheets_1: 2108716796
+      Infected 62x33 sprite sheets_10: 1761150392
+      Infected 62x33 sprite sheets_11: 1530980404
+      Infected 62x33 sprite sheets_12: 1886093105
+      Infected 62x33 sprite sheets_13: 1363082417
+      Infected 62x33 sprite sheets_14: -399603243
+      Infected 62x33 sprite sheets_15: 1979002019
+      Infected 62x33 sprite sheets_16: -1099717427
+      Infected 62x33 sprite sheets_17: -1515890799
+      Infected 62x33 sprite sheets_18: -1787897241
+      Infected 62x33 sprite sheets_19: -1327256697
+      Infected 62x33 sprite sheets_2: 1922968440
+      Infected 62x33 sprite sheets_20: 1076358273
+      Infected 62x33 sprite sheets_21: 1484943562
+      Infected 62x33 sprite sheets_22: 424104398
+      Infected 62x33 sprite sheets_23: 1123693302
+      Infected 62x33 sprite sheets_24: -350758154
+      Infected 62x33 sprite sheets_25: 308737084
+      Infected 62x33 sprite sheets_26: -1188558733
+      Infected 62x33 sprite sheets_27: -1921525779
+      Infected 62x33 sprite sheets_28: 857608197
+      Infected 62x33 sprite sheets_29: -170051745
+      Infected 62x33 sprite sheets_3: -578926264
+      Infected 62x33 sprite sheets_30: 1610397560
+      Infected 62x33 sprite sheets_31: -498151823
+      Infected 62x33 sprite sheets_32: 1930559911
+      Infected 62x33 sprite sheets_33: 912984350
+      Infected 62x33 sprite sheets_34: 932317404
+      Infected 62x33 sprite sheets_35: -731219990
+      Infected 62x33 sprite sheets_36: 761498808
+      Infected 62x33 sprite sheets_37: -719791232
+      Infected 62x33 sprite sheets_38: -332539388
+      Infected 62x33 sprite sheets_39: 1991801849
+      Infected 62x33 sprite sheets_4: -900496423
+      Infected 62x33 sprite sheets_40: -788885526
+      Infected 62x33 sprite sheets_41: -1415791315
+      Infected 62x33 sprite sheets_42: 166175244
+      Infected 62x33 sprite sheets_43: -1710186408
+      Infected 62x33 sprite sheets_44: -1603936260
+      Infected 62x33 sprite sheets_45: -1645394141
+      Infected 62x33 sprite sheets_46: -348444090
+      Infected 62x33 sprite sheets_47: 1684351123
+      Infected 62x33 sprite sheets_48: 1933922396
+      Infected 62x33 sprite sheets_49: -1198100200
+      Infected 62x33 sprite sheets_5: 133730792
+      Infected 62x33 sprite sheets_50: 2054983566
+      Infected 62x33 sprite sheets_51: 1064667376
+      Infected 62x33 sprite sheets_52: 1718991847
+      Infected 62x33 sprite sheets_53: 977659942
+      Infected 62x33 sprite sheets_54: -584340703
+      Infected 62x33 sprite sheets_55: -1606254818
+      Infected 62x33 sprite sheets_56: 1043787175
+      Infected 62x33 sprite sheets_57: 1602632217
+      Infected 62x33 sprite sheets_58: 1738867659
+      Infected 62x33 sprite sheets_59: -241018014
+      Infected 62x33 sprite sheets_6: 1638036288
+      Infected 62x33 sprite sheets_7: 1936266086
+      Infected 62x33 sprite sheets_8: -499778788
+      Infected 62x33 sprite sheets_9: 1706289378
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: cee532bf214ad234f989b577b5d486f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Summoner 46x 44_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c42284430d9ea4691fac1c6d6e92a4
+      internalID: 259748970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 176
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee6eb5fa4da061468bcd85b6c0221b9
+      internalID: 1534322463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 176
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bbb843e702e984d960b567ea80f03f
+      internalID: 1383106967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 176
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f1616de9891d42934457ba236c31e
+      internalID: -1561877074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 176
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25014a0bc1299d547bd27a07c0d58089
+      internalID: 945252345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 176
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b1f500ea99fd945848114607a0d85b
+      internalID: -2049800370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27724a48f2e0844ad06b0d704ab604
+      internalID: -1932791916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 132
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755845dec11559043999a65d52e6645a
+      internalID: -1376325219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 132
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8873510af5fe414984c947a4b972adf
+      internalID: 853712428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 132
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27178007a79d684994b7723ce37f36e
+      internalID: -741735880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 132
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252a83624ebbcef4ea3bc90a80a88782
+      internalID: 56867568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 132
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1aa8ea6d8a5424da778bd17110e197
+      internalID: 1748029614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d57970163f53419b1c5d89a2409e7
+      internalID: 1553791925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 88
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3321f8ccfdaf83a4a8b976c54baf605d
+      internalID: 1530246030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 88
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734454c7162e43a469a7c30c06d8f409
+      internalID: -1875602364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 88
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1603d38c037f84986980a02890f3b3
+      internalID: 1504375880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 88
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd6d1111f54fe4a95d9df5faaa5665
+      internalID: 1186843046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 88
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1cf7dea02200b4f9f67ae262ae9c1d
+      internalID: -539776353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 88
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df361f833b9c3458347b28e7ea4a77
+      internalID: 1777207514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 88
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83800e5ba6e3c14f88060505aba557e
+      internalID: 455540798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 88
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfdd46182acd494786aab42568dffa6
+      internalID: -1350847456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c310e39f89b38be41a52e01f31ba7fca
+      internalID: 1005395826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 44
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58993e40dc9d84787ad45999c575d4
+      internalID: -1967197852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 44
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848191814eb8a93458c458b6f035bb32
+      internalID: -1166102518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c09a2ee7835c14192261707330ccdc
+      internalID: -1809575912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee90583771cd3c940a98f4499a137280
+      internalID: 1927071328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf7326198f928246a9870986552bdc7
+      internalID: 1933532976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0132df8e6af768a4dbf25f5c6c953cdb
+      internalID: -1700440799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4483d76824f0af04b9f4167563928178
+      internalID: -553406889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce61c986d08d245baf890d38dbb48a
+      internalID: -2046273580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c635010679a4bd4d9b920c345c01960
+      internalID: -1053036779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c601bae5d849d464ab70b5cb71c71eba
+      internalID: 1031976396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150c3016d7cee0d4b9d7d9240a30412b
+      internalID: 408831391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summoner 46x 44_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6817, y: 0.3908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08941b0eff3f3e14aa9766428a5f207a
+      internalID: 412528301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Summoner 46x 44_0: 259748970
+      Summoner 46x 44_1: 1534322463
+      Summoner 46x 44_10: 56867568
+      Summoner 46x 44_11: 1748029614
+      Summoner 46x 44_12: 1553791925
+      Summoner 46x 44_13: 1530246030
+      Summoner 46x 44_14: -1875602364
+      Summoner 46x 44_15: 1504375880
+      Summoner 46x 44_16: 1186843046
+      Summoner 46x 44_17: -539776353
+      Summoner 46x 44_18: 1777207514
+      Summoner 46x 44_19: 455540798
+      Summoner 46x 44_2: 1383106967
+      Summoner 46x 44_20: -1350847456
+      Summoner 46x 44_21: 1005395826
+      Summoner 46x 44_22: -1967197852
+      Summoner 46x 44_23: -1166102518
+      Summoner 46x 44_24: -1809575912
+      Summoner 46x 44_25: 1927071328
+      Summoner 46x 44_26: 1933532976
+      Summoner 46x 44_27: -1700440799
+      Summoner 46x 44_28: -553406889
+      Summoner 46x 44_29: -2046273580
+      Summoner 46x 44_3: -1561877074
+      Summoner 46x 44_30: -1053036779
+      Summoner 46x 44_31: 1031976396
+      Summoner 46x 44_32: 408831391
+      Summoner 46x 44_33: 412528301
+      Summoner 46x 44_4: 945252345
+      Summoner 46x 44_5: -2049800370
+      Summoner 46x 44_6: -1932791916
+      Summoner 46x 44_7: -1376325219
+      Summoner 46x 44_8: 853712428
+      Summoner 46x 44_9: -741735880
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

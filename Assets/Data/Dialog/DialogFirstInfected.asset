@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218e8fc1dffb4f247bb9452fed21710e, type: 3}
+  m_Name: DialogFirstInfected
+  m_EditorClassIdentifier: 
+  dialogLines:
+  - speaker: You
+    sentence: Hold on a second...
+  - speaker: You
+    sentence: There's an infected down there
+  - speaker: You
+    sentence: Poor guy...
+  - speaker: You
+    sentence: I need to be careful

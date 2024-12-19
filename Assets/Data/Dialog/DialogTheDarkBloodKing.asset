@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 218e8fc1dffb4f247bb9452fed21710e, type: 3}
+  m_Name: DialogTheDarkBloodKing
+  m_EditorClassIdentifier: 
+  dialogLines:
+  - speaker: The Dark Blood King
+    sentence: I've finally found you
+  - speaker: The Dark Blood King
+    sentence: I won't let you run away again little girl
+  - speaker: You
+    sentence: '"I have to be able to beat him even though I don''t know if I can
+      or not"'
